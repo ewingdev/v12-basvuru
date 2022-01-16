@@ -1,0 +1,12 @@
+{
+  "prefix":"prefix",
+  "token":"token",
+  "adminrol": "admin rolü idsi",
+  "kurucu":"kurucu rolü idsi",
+  "basvurkategori":"kategori idsi",
+    "onayred":"onay red log kanalı",
+  "yetkililog":"log kanalı",
+  "everyoneid":"everyone rol idsi",
+  "yetkilirolid":"yetkilinin rolünün idsi",
+  "sunucuid":"sunucunun idsi"
+}

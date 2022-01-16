@@ -1,1 +1,2 @@
-# v12-basvuru
+# başvuru-botu
+Ewing35 Başvuru Sistemi botu
